@@ -1,6 +1,6 @@
 # Malcolm Miller - Data Scientist, Blockchain Developer 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=malrepos&show_icons=true&theme=radical" />
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=malrepos&show_icons=true&theme=radical" />
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malrepos&layout=compact" />
 
