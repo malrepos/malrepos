@@ -4,8 +4,7 @@
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malrepos&layout=compact" />
 
-
------
+---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -14,6 +13,12 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+# Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+# Podcasts
 
+<!-- Podcasts:START -->
+<!-- Podcasts:END -->
