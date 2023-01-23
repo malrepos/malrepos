@@ -1,11 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://malrepos.github.io/)
 
-
-[![Social banner for mal](https://github.com/](https://malrepos.github.io/)
-<h1 align='center'> Hello :wave:</h1>
-<h2 align='center'>
- I'm Malcolm.
-</h2>
 
 
 
